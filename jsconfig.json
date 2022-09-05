@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "components/*": ["./src/components/*"],
+      "assets/*": ["./src/assets/*"],
+      "common/*": ["./src/common/*"],
+      "constants/*": ["./src/constants/*"],
+      "data/*": ["./src/data/*"],
+      "models/*": ["./src/models/*"],
+      "navigation/*": ["./src/navigation/*"],
+      "reduxStore/*": ["src/reduxStore/*"],
+      "utils/*": ["./src/utils/*"],
+      "styleSheet/*": ["./src/styleSheet/*"],
+      "delivery/*": ["./src/delivery/*"],
+      "mealPlan/*": ["./src/mealPlan/*"],
+    }
+  }
+}
